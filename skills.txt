@@ -1,0 +1,53 @@
+Academic Writing
+Artificial-Intelligence-Chat-GPT
+Artificial-Intelligence-Copilot
+Artificial-Intelligence-Elephas
+Artificial-Intelligence-Sourcery
+Budgeting
+Budgeting-Academic Grants
+Budgeting-European Union and Erasmus Grants
+Budgeting-Not-forprofit Grants (Rotary International)
+Coaching
+Communications-Microsoft Teams
+Communications-Slack
+Communications-Teamds
+Content-Analysis
+Content-Management
+Content-Analysis
+Content-Analysis-Scrivener
+Content-Analysis-SQL
+Content-Analysis-ZettelKasten
+Content-Analysis-Zettlr
+Content-Control-Atlassian Trello
+Content-Development-AsciiDoc
+Content-Development-HTML
+Content-DevelopmentJupyter
+Content-Development-Markdown
+Content-Development-Microsoft Access
+Content-Development-Microsoft Excel
+Content-Development-Microsoft PowerPoint
+Content-Development-Microsoft Publisher
+Content-Development-Microsoft VB for Applications (macros)
+Content-Development-Microsoft Word
+Content-Development-Obsidian
+Content-Development-OPML
+Content-Development-Pandoc
+Content-Development-Python
+Content-Development-R Studio
+Content-Development-RestructuredText
+Content-Development-XML
+Content-Management-Apple iCloud
+Content-Management-Atlassian Confluence
+Content-Management-Atlassian Jira
+Content-Management-Google Drive
+Content-Management-Microsoft SharePoint
+Content-Management-RFPIO
+Corporate-Writing
+Editing
+Grant-Writing
+Proposal-Writing
+Publishing
+Technical-Writing
+Text-Analysis-Concordance
+Text-Analysis-Textanz
+Writing
